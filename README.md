@@ -3,7 +3,7 @@ multicheck.js
 
 Replace multiple select with checkboxes using jQuery
 
-==Using==
+##Using
 Download jquery.multicheck.min.js and include it into the <head> tag of your web page:
 <script type="text/javascript" src="/js/multicheck.js/jquery.multicheck.min.js"></script>
 
